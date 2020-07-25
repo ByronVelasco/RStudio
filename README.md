@@ -1,2 +1,2 @@
-# musical-waffle
+# RStudio
 This is a repository test with RStudio
